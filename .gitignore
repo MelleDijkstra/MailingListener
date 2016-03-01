@@ -1,6 +1,4 @@
 
-# Created by https://www.gitignore.io/api/composer,phpstorm
-
 ### Composer ###
 composer.phar
 /vendor/
